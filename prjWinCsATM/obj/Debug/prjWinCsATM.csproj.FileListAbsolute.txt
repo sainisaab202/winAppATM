@@ -1,0 +1,13 @@
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\bin\Debug\prjWinCsATM.exe.config
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\bin\Debug\prjWinCsATM.exe
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\bin\Debug\prjWinCsATM.pdb
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.csprojAssemblyReference.cache
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.Properties.Resources.resources
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.csproj.GenerateResource.cache
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.exe
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.pdb
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.csproj.CoreCompileInputs.cache
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.frmATM.resources
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\bin\Debug\ATMLibrary.dll
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\bin\Debug\ATMLibrary.pdb
+C:\Users\GurPreet SaiNi\source\repos\prjWinCsATM\prjWinCsATM\obj\Debug\prjWinCsATM.csproj.CopyComplete
